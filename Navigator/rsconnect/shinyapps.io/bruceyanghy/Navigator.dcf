@@ -1,0 +1,12 @@
+name: Navigator
+title: Navigator
+username:
+account: bruceyanghy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 223697
+bundleId: 1019861
+url: https://bruceyanghy.shinyapps.io/Navigator/
+when: 1507663897.27461
+asMultiple: FALSE
+asStatic: FALSE

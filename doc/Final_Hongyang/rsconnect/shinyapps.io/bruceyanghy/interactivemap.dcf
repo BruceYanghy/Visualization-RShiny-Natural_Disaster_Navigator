@@ -1,0 +1,12 @@
+name: interactivemap
+title: InteractiveMap
+username:
+account: bruceyanghy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 223496
+bundleId: 1018779
+url: https://bruceyanghy.shinyapps.io/interactivemap/
+when: 1507624258.66948
+asMultiple: FALSE
+asStatic: FALSE
