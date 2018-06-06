@@ -1,10 +1,10 @@
-# Project 2: Open Data App - an RShiny app development project
+# Project 2: Natural Disaster Navigator: https://bruceyanghy.shinyapps.io/Navigator/
 
 ### [Project Description](doc/project2_desc.md)
 
 ![screenshot](doc/screenshot2.png)
 
-In this second project of GU4243/GR5243 Applied Data Science, we develop an *Exploratory Data Analysis and Visualization* shiny app on a topic of your choice using U.S. government open data released on the [data.gov](https://data.gov/) website. See [Project 2 Description](doc/project2_desc.md) for more details.  
+## Data (ftp://ftp.ncdc.noaa.gov/pub/data/swdi/stormevents/csvfiles/) 
 
 The **learning goals** for this project is:
 
@@ -15,7 +15,7 @@ The **learning goals** for this project is:
 - shiny app/shiny server
 
 
-## Project Title Lorem ipsum dolor sit amet
+## Project Title: Natural Disaster Navigator
 Term: Fall 2017
 
 
