@@ -14,22 +14,12 @@ The **learning goals** for this project is:
 - systems development/design life cycle
 - shiny app/shiny server
 
-*The above general statement about project 2 can be removed once you are finished with your project. It is optional.
 
 ## Project Title Lorem ipsum dolor sit amet
 Term: Fall 2017
 
-+ Team #
-+ **Projec title**: + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
 
-+ **Project summary**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-+ **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
++ **Project summary**: Natural disasters have been a prominent fixture in this year’s news. From Hurricane Harvey to wildfires in California, each causing casualties, millions or even billions of dollars in damages. What wisdom and insight can we draw from past data to help us make informed decisions, minimize casualties and damages? We present to you our Natural Disaster Navigator, an RShiny App we built based on our belief that is not only of business value but also societal value to understand and extract insights from natural disaster data in order to minimize costs and optimize allocation of government resources in the face of natural disasters.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
